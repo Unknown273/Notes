@@ -29,5 +29,5 @@
     - View the history of your commits
     - Use the `--reverse` option if you want to start viewing from the first commit
   
-9. `git diff <commit id>`
+9. `git show <commit id>`
     - View the changes made in the specified commit
