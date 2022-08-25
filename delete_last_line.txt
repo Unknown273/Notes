@@ -1,0 +1,1 @@
+tail --lines=1 file.txt > temp.txt && mv temp.txt file.txt
